@@ -1,0 +1,840 @@
+[
+  {
+    "transaction_id": 19753223,
+    "customer_id": 10,
+    "timestamp": "2024-02-07T15:28:10.512350",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Pastel Dust Fruit Cubes",
+        "qty": 4
+      },
+      {
+        "product_id": 31,
+        "product_name": "Sprinkles Clusters Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 35,
+        "product_name": "Sprinkles Filled Blocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 25517835,
+    "customer_id": 9,
+    "timestamp": "2024-02-07T11:43:22.529568",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Pastel Dust Dipped Cones",
+        "qty": 4
+      },
+      {
+        "product_id": 13,
+        "product_name": "Graham Fruit Cubes",
+        "qty": 4
+      },
+      {
+        "product_id": 15,
+        "product_name": "Graham Fruit Cones",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Opaque Rings Stackable",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 77890558,
+    "customer_id": 18,
+    "timestamp": "2024-02-07T22:28:55.624835",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Translucent Worms Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 26,
+        "product_name": "Milk/Dark/White Truffles Discs",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 75772188,
+    "customer_id": 24,
+    "timestamp": "2024-02-07T16:56:02.432859",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Sprinkles Filled Discs",
+        "qty": 4
+      },
+      {
+        "product_id": 3,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 2375054,
+    "customer_id": 3,
+    "timestamp": "2024-02-07T02:41:20.643955",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Sprinkles Clusters Blocks",
+        "qty": 4
+      },
+      {
+        "product_id": 13,
+        "product_name": "Graham Fruit Cubes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 23916705,
+    "customer_id": 29,
+    "timestamp": "2024-02-07T10:29:11.239038",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Translucent Bears Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 5,
+        "product_name": "Translucent Rings Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 1200947,
+    "customer_id": 13,
+    "timestamp": "2024-02-07T20:49:25.533743",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Sprinkles Filled Blocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 62894645,
+    "customer_id": 19,
+    "timestamp": "2024-02-07T18:46:57.520338",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 17,
+        "product_name": "Graham Classic Cubes",
+        "qty": 1
+      },
+      {
+        "product_id": 31,
+        "product_name": "Sprinkles Clusters Blocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 14034980,
+    "customer_id": 5,
+    "timestamp": "2024-02-07T13:09:01.053015",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Graham Classic Cones",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 36750124,
+    "customer_id": 2,
+    "timestamp": "2024-02-07T12:02:45.071940",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Opaque Bears Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 29,
+        "product_name": "Sprinkles Clusters Discs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 73028433,
+    "customer_id": 11,
+    "timestamp": "2024-02-07T16:52:53.379673",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Sprinkles Clusters Discs",
+        "qty": 1
+      },
+      {
+        "product_id": 35,
+        "product_name": "Sprinkles Filled Blocks",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Milk/Dark/White Truffles Discs",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Pastel Dust Dipped Cones",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 44366118,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T02:02:34.367547",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 5,
+        "product_name": "Translucent Rings Standard",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 78614086,
+    "customer_id": 6,
+    "timestamp": "2024-02-07T03:10:52.928133",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Pastel Dust Fruit Cubes",
+        "qty": null
+      },
+      {
+        "product_id": 8,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 5,
+        "product_name": "Translucent Rings Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 19,
+        "product_name": "Graham Classic Cones",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 91422999,
+    "customer_id": 21,
+    "timestamp": "2024-02-07T12:33:26.110505",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Translucent Worms Standard",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 42316106,
+    "customer_id": 23,
+    "timestamp": "2024-02-07T02:05:04.807018",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Opaque Rings Standard",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 20872395,
+    "customer_id": 24,
+    "timestamp": "2024-02-07T11:22:44.335604",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Sprinkles Clusters Blocks",
+        "qty": 2
+      },
+      {
+        "product_id": 32,
+        "product_name": "Milk/Dark/White Clusters Blocks",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 24,
+        "product_name": "Pastel Dust Dipped Cones",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 3714620,
+    "customer_id": 8,
+    "timestamp": "2024-02-07T21:00:41.433264",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Pastel Dust Classic Cubes",
+        "qty": 1
+      },
+      {
+        "product_id": 26,
+        "product_name": "Milk/Dark/White Truffles Discs",
+        "qty": 2
+      },
+      {
+        "product_id": 8,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 32,
+        "product_name": "Milk/Dark/White Clusters Blocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 5059388,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T21:43:32.709044",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Sprinkles Filled Blocks",
+        "qty": 2
+      },
+      {
+        "product_id": 19,
+        "product_name": "Graham Classic Cones",
+        "qty": 5
+      },
+      {
+        "product_id": 14,
+        "product_name": "Pastel Dust Fruit Cubes",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Translucent Bears Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 35342847,
+    "customer_id": 11,
+    "timestamp": "2024-02-07T04:22:25.691243",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Opaque Bears Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 28,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 34,
+        "product_name": "Milk/Dark/White Filled Discs",
+        "qty": 1
+      },
+      {
+        "product_id": 32,
+        "product_name": "Milk/Dark/White Clusters Blocks",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 70356330,
+    "customer_id": 18,
+    "timestamp": "2024-02-07T14:39:28.621112",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Pastel Dust Dipped Cones",
+        "qty": 5
+      },
+      {
+        "product_id": 11,
+        "product_name": "Translucent Bears Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 21,
+        "product_name": "Graham Dipped Cubes",
+        "qty": 1
+      },
+      {
+        "product_id": 12,
+        "product_name": "Opaque Bears Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 17,
+        "product_name": "Graham Classic Cubes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 1658121,
+    "customer_id": 29,
+    "timestamp": "2024-02-07T19:41:53.931035",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Graham Dipped Cones",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Pastel Dust Fruit Cones",
+        "qty": 5
+      },
+      {
+        "product_id": 33,
+        "product_name": "Sprinkles Filled Discs",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Graham Fruit Cubes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 30419546,
+    "customer_id": 25,
+    "timestamp": "2024-02-07T13:05:59.108390",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Opaque Rings Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 16,
+        "product_name": "Pastel Dust Fruit Cones",
+        "qty": 4
+      },
+      {
+        "product_id": 25,
+        "product_name": "Sprinkles Truffles Discs",
+        "qty": null
+      },
+      {
+        "product_id": 5,
+        "product_name": "Translucent Rings Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 28,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 11523779,
+    "customer_id": 16,
+    "timestamp": "2024-02-07T15:44:08.016573",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Milk/Dark/White Clusters Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 5,
+        "product_name": "Translucent Rings Standard",
+        "qty": null
+      },
+      {
+        "product_id": 28,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Sprinkles Truffles Discs",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 43853420,
+    "customer_id": 15,
+    "timestamp": "2024-02-07T10:31:52.614299",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Opaque Worms Standard",
+        "qty": null
+      },
+      {
+        "product_id": 10,
+        "product_name": "Opaque Bears Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Pastel Dust Fruit Cubes",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Graham Fruit Cubes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 44736037,
+    "customer_id": 9,
+    "timestamp": "2024-02-07T19:08:27.189270",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Translucent Bears Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 29,
+        "product_name": "Sprinkles Clusters Discs",
+        "qty": 4
+      },
+      {
+        "product_id": 24,
+        "product_name": "Pastel Dust Dipped Cones",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 5,
+        "product_name": "Translucent Rings Standard",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 62120349,
+    "customer_id": 27,
+    "timestamp": "2024-02-07T06:10:30.467662",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Graham Dipped Cones",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 7345677,
+    "customer_id": 10,
+    "timestamp": "2024-02-07T21:20:51.403694",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Pastel Dust Classic Cubes",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Graham Fruit Cubes",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Pastel Dust Fruit Cubes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 39547515,
+    "customer_id": 7,
+    "timestamp": "2024-02-07T16:28:46.641813",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": 4
+      },
+      {
+        "product_id": 18,
+        "product_name": "Pastel Dust Classic Cubes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 80276624,
+    "customer_id": 30,
+    "timestamp": "2024-02-07T03:16:06.339038",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Sprinkles Filled Discs",
+        "qty": 2
+      },
+      {
+        "product_id": 29,
+        "product_name": "Sprinkles Clusters Discs",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Graham Dipped Cubes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 48752716,
+    "customer_id": 13,
+    "timestamp": "2024-02-07T15:19:14.026942",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Translucent Bears Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 25,
+        "product_name": "Sprinkles Truffles Discs",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 500520,
+    "customer_id": 24,
+    "timestamp": "2024-02-07T07:32:04.794041",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Opaque Worms Stackable",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 33212802,
+    "customer_id": 26,
+    "timestamp": "2024-02-07T13:33:31.364457",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Milk/Dark/White Clusters Discs",
+        "qty": 4
+      },
+      {
+        "product_id": 18,
+        "product_name": "Pastel Dust Classic Cubes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 96783113,
+    "customer_id": 25,
+    "timestamp": "2024-02-07T23:31:12.804648",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Translucent Worms Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Sprinkles Truffles Discs",
+        "qty": null
+      },
+      {
+        "product_id": 32,
+        "product_name": "Milk/Dark/White Clusters Blocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 88737736,
+    "customer_id": 23,
+    "timestamp": "2024-02-07T22:34:58.429193",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Pastel Dust Dipped Cones",
+        "qty": 1
+      },
+      {
+        "product_id": 15,
+        "product_name": "Graham Fruit Cones",
+        "qty": 4
+      },
+      {
+        "product_id": 32,
+        "product_name": "Milk/Dark/White Clusters Blocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 222250,
+    "customer_id": 14,
+    "timestamp": "2024-02-07T13:27:56.279817",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Milk/Dark/White Truffles Blocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 38008574,
+    "customer_id": 4,
+    "timestamp": "2024-02-07T15:22:12.219444",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Milk/Dark/White Clusters Discs",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Translucent Worms Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 11,
+        "product_name": "Translucent Bears Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 54942543,
+    "customer_id": 3,
+    "timestamp": "2024-02-07T15:16:57.630930",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Pastel Dust Dipped Cones",
+        "qty": 1
+      },
+      {
+        "product_id": 34,
+        "product_name": "Milk/Dark/White Filled Discs",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Graham Classic Cones",
+        "qty": 2
+      },
+      {
+        "product_id": 25,
+        "product_name": "Sprinkles Truffles Discs",
+        "qty": 2
+      },
+      {
+        "product_id": 8,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 10348997,
+    "customer_id": 1,
+    "timestamp": "2024-02-07T11:24:39.680333",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Graham Fruit Cones",
+        "qty": 5
+      },
+      {
+        "product_id": 32,
+        "product_name": "Milk/Dark/White Clusters Blocks",
+        "qty": null
+      },
+      {
+        "product_id": 7,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 93652816,
+    "customer_id": 5,
+    "timestamp": "2024-02-07T10:54:46.043213",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Graham Classic Cubes",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Opaque Worms Stackable",
+        "qty": null
+      },
+      {
+        "product_id": 1,
+        "product_name": "Translucent Worms Standard",
+        "qty": 4
+      }
+    ]
+  }
+]

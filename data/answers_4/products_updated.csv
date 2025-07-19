@@ -1,0 +1,37 @@
+product_id,product_name,current_stock
+1,Translucent Worms Standard,0
+2,Opaque Worms Standard,1839
+3,Translucent Worms Stackable,212
+4,Opaque Worms Stackable,1085
+5,Translucent Rings Standard,0
+6,Opaque Rings Standard,2251
+7,Translucent Rings Stackable,1780
+8,Opaque Rings Stackable,234
+9,Translucent Bears Standard,0
+10,Opaque Bears Standard,1356
+11,Translucent Bears Stackable,672
+12,Opaque Bears Stackable,2234
+13,Graham Fruit Cubes,2070
+14,Pastel Dust Fruit Cubes,2680
+15,Graham Fruit Cones,149
+16,Pastel Dust Fruit Cones,2025
+17,Graham Classic Cubes,555
+18,Pastel Dust Classic Cubes,2405
+19,Graham Classic Cones,2151
+20,Pastel Dust Classic Cones,715
+21,Graham Dipped Cubes,1274
+22,Pastel Dust Dipped Cubes,1209
+23,Graham Dipped Cones,858
+24,Pastel Dust Dipped Cones,2472
+25,Sprinkles Truffles Discs,128
+26,Milk/Dark/White Truffles Discs,2345
+27,Sprinkles Truffles Blocks,1694
+28,Milk/Dark/White Truffles Blocks,562
+29,Sprinkles Clusters Discs,923
+30,Milk/Dark/White Clusters Discs,2290
+31,Sprinkles Clusters Blocks,2481
+32,Milk/Dark/White Clusters Blocks,2212
+33,Sprinkles Filled Discs,1713
+34,Milk/Dark/White Filled Discs,1326
+35,Sprinkles Filled Blocks,0
+36,Milk/Dark/White Filled Blocks,2444
