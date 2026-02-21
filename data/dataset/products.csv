@@ -1,0 +1,37 @@
+product_id,product_name,product_category,product_subcategory,product_shape,sales_price,cost_to_make,stock
+1,Translucent Worms Standard,Gummies & Jellies,Worms,Standard,6.51,2.71,2126
+2,Opaque Worms Standard,Gummies & Jellies,Worms,Standard,1.79,1.21,4161
+3,Translucent Worms Stackable,Gummies & Jellies,Worms,Stackable,3.63,2.23,2380
+4,Opaque Worms Stackable,Gummies & Jellies,Worms,Stackable,4.28,2.62,3476
+5,Translucent Rings Standard,Gummies & Jellies,Rings,Standard,1.98,1.07,2304
+6,Opaque Rings Standard,Gummies & Jellies,Rings,Standard,4.87,2.97,4536
+7,Translucent Rings Stackable,Gummies & Jellies,Rings,Stackable,1.54,0.72,4074
+8,Opaque Rings Stackable,Gummies & Jellies,Rings,Stackable,4.72,2.9,2627
+9,Translucent Bears Standard,Gummies & Jellies,Bears,Standard,1.51,0.76,2282
+10,Opaque Bears Standard,Gummies & Jellies,Bears,Standard,6.29,3.38,3663
+11,Translucent Bears Stackable,Gummies & Jellies,Bears,Stackable,2.25,1.1,2834
+12,Opaque Bears Stackable,Gummies & Jellies,Bears,Stackable,8.38,4.82,4499
+13,Graham Fruit Cubes,Marshmallow,Fruit,Cubes,3.98,2.49,4329
+14,Pastel Dust Fruit Cubes,Marshmallow,Fruit,Cubes,6.56,4.26,4949
+15,Graham Fruit Cones,Marshmallow,Fruit,Cones,5.65,2.37,2412
+16,Pastel Dust Fruit Cones,Marshmallow,Fruit,Cones,7.54,3.78,4342
+17,Graham Classic Cubes,Marshmallow,Classic,Cubes,0.51,0.31,2759
+18,Pastel Dust Classic Cubes,Marshmallow,Classic,Cubes,8.74,4.56,4707
+19,Graham Classic Cones,Marshmallow,Classic,Cones,9.43,3.84,4660
+20,Pastel Dust Classic Cones,Marshmallow,Classic,Cones,7.42,3.41,2961
+21,Graham Dipped Cubes,Marshmallow,Dipped,Cubes,3.97,1.69,3605
+22,Pastel Dust Dipped Cubes,Marshmallow,Dipped,Cubes,4.69,2.13,3560
+23,Graham Dipped Cones,Marshmallow,Dipped,Cones,5.65,3.7,3145
+24,Pastel Dust Dipped Cones,Marshmallow,Dipped,Cones,7.41,4.01,4887
+25,Sprinkles Truffles Discs,Chocolate,Truffles,Discs,1.53,0.7,2495
+26,Milk/Dark/White Truffles Discs,Chocolate,Truffles,Discs,4.09,2.03,4687
+27,Sprinkles Truffles Blocks,Chocolate,Truffles,Blocks,6.33,4.12,4091
+28,Milk/Dark/White Truffles Blocks,Chocolate,Truffles,Blocks,9.16,3.82,3013
+29,Sprinkles Clusters Discs,Chocolate,Clusters,Discs,3.09,1.7,3203
+30,Milk/Dark/White Clusters Discs,Chocolate,Clusters,Discs,5.78,2.73,4527
+31,Sprinkles Clusters Blocks,Chocolate,Clusters,Blocks,3.62,2.42,4707
+32,Milk/Dark/White Clusters Blocks,Chocolate,Clusters,Blocks,4.21,2.63,4491
+33,Sprinkles Filled Discs,Chocolate,Filled,Discs,9.95,6.73,4006
+34,Milk/Dark/White Filled Discs,Chocolate,Filled,Discs,9.37,5.75,3359
+35,Sprinkles Filled Blocks,Chocolate,Filled,Blocks,3.29,1.75,2055
+36,Milk/Dark/White Filled Blocks,Chocolate,Filled,Blocks,8.56,3.62,4673
