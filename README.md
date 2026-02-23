@@ -154,7 +154,7 @@ Finally, each model produces a **1-day ahead forecast**, generating predicted va
 ---
 
 ```
-project-2-main/
+root/
 ├── .env.example              # Environment variable template
 ├── data/
 │   └── dataset/
